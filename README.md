@@ -1,6 +1,5 @@
 <h1 aling="center"> Encriptador de Texto</h1>   
-![Encriptador de Texto]
-(https://raw.githubusercontent.com/Nelsper/AluraChallengeEncrip/66dbee263f9a575ef97df504e9c7a4afe478c82d/img/encrip.png)
+<img src="https://raw.githubusercontent.com/Nelsper/AluraChallengeEncrip/66dbee263f9a575ef97df504e9c7a4afe478c82d/img/encrip.png" alt="Encriptador de texto"/>
 <h2>Descripción del Proyecto</h2>
 <p>¡Bienvenidas y bienvenidos a nuestro primer desafío!
 
